@@ -1,1 +1,0 @@
-// Sequelize or Prisma model for Task

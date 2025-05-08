@@ -1,1 +1,0 @@
-// Component to display a task
